@@ -1,0 +1,20 @@
+2022-12-31 21:10:23,138 - Copying contents in sample1.txt to the copy in replica folder
+2022-12-31 21:10:23,145 - Copying test2.exe to the replica folder
+2022-12-31 21:10:32,492 - Copying contents in sample1.txt to the copy in replica folder
+2022-12-31 21:10:32,507 - Copying contents in test2.exe to the copy in replica folder
+2022-12-31 21:10:50,395 - Copying contents in sample1.txt to the copy in replica folder
+2022-12-31 21:10:50,400 - Copying contents in test2.exe to the copy in replica folder
+2022-12-31 21:11:03,700 - Copying contents in sample1.txt to the copy in replica folder
+2022-12-31 21:11:03,706 - Copying contents in test2.exe to the copy in replica folder
+2022-12-31 21:11:17,536 - Copying contents in sample1.txt to the copy in replica folder
+2022-12-31 21:11:17,550 - Copying contents in test2.exe to the copy in replica folder
+2023-01-01 09:24:41,309 - Copying contents in sample1.txt to the copy in replica folder
+2023-01-01 09:24:41,317 - Copying contents in test.py to the copy in replica folder
+2023-01-01 09:24:41,322 - Copying contents in test2.exe to the copy in replica folder
+2023-01-01 09:24:51,333 - Copying contents in sample1.txt to the copy in replica folder
+2023-01-01 09:24:51,358 - Copying contents in test.py to the copy in replica folder
+2023-01-01 09:24:51,374 - Copying contents in test2.exe to the copy in replica folder
+2023-01-01 09:25:39,483 - Copying contents in test.py to the copy in replica folder
+2023-01-01 09:33:31,767 - Invalid Arguments
+2023-01-01 09:38:59,541 - Copying contents in test.py to the copy in replica folder
+2023-01-02 16:25:55,051 - Invalid Arguments
